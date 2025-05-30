@@ -4,7 +4,7 @@
 
 ### 🛠 Навыки:
 - Языки: Python
-- Веб: Django, Flask, HTML, CSS
+- Веб: Django, HTML, CSS
 - Парсинг: requests, BeautifulSoup, Selenium
 - Data Science: pandas, numpy, matplotlib, seaborn
 - Машинное обучение: scikit-learn
